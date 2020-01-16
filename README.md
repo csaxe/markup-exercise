@@ -15,3 +15,8 @@ We'll start by collaboratively live coding a simple article example.  I've pulle
 For this part, I'd like anyone interested to open a branch on the repo and address one or both of the other examples.  Please create a new folder in the example you're working on so that we can compare work later if desired.  When you're ready, open a PR and we can collectively give feedback and (I hope) learn from each others' thinking.
 
 Please create two files, as we will in the collaborative example; one containing an outline and the other containing the markup.
+
+## Resources
+[MDN: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element): This document does a good job of grouping the available elements by function and giving a summary of their purpose and meaning.
+
+There are other resources available, but I'm keeping this list short for simplicity's sake.  If there are other resources the group would like to add, I can include them here.
